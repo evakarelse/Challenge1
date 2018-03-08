@@ -83,7 +83,7 @@ h2{
 .food{
   grid-area: section-3;
 }
-@media only screen and (max-width: 374px){
+@media only screen and (max-width: 375px){
     .grid-section{
       display: grid;
       grid-template-columns: 1fr;
