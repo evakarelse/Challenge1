@@ -35,6 +35,8 @@ h2{
              bg 200s step-end infinite;
 }
 
+
+
 .circle-chart__circle {
   animation: circle-chart-fill 2s reverse; /* 1 */ 
   transform: rotate(-90deg); /* 2, 3 */
@@ -83,6 +85,7 @@ h2{
 .food{
   grid-area: section-3;
 }
+
 @media only screen and (max-width: 375px){
     .grid-section{
       display: grid;
